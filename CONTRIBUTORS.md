@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+﻿#### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:
  - GitHub: [samflores23](https://github.com/samflores23)
@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Melissa Guerrero](https://github.com/Mmgfrog)
+- Place: Richardson, TX, USA
+- Bio: Half-Cuban Mom of 3 | Front End Developer | HTML Designer
+- GitHub: [Mmgfrog](https://github.com/Mmgfrog)
